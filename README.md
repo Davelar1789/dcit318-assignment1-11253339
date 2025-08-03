@@ -31,14 +31,11 @@ Also validates if the sides can form a valid triangle using the triangle inequal
 ## Project Structure
 dcit318-assignment1-11253339/
 │
-├── GradeCalculator/
-│ └── Program.cs
+├── GradeCalculator.cs
+│ 
+├── TicketPriceCalculator.cs
 │
-├── TicketPriceCalculator/
-│ └── Program.cs
-│
-├── TriangleTypeIdentifier/
-│ └── Program.cs
+├── TriangleTypeIdentifier.cs
 │
 └── README.md
 
