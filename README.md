@@ -29,7 +29,18 @@ Takes three side lengths as input and determines the type of triangle:
 Also validates if the sides can form a valid triangle using the triangle inequality rule.
 
 ## Project Structure
-
+dcit318-assignment1-11253339/
+│
+├── GradeCalculator/
+│ └── Program.cs
+│
+├── TicketPriceCalculator/
+│ └── Program.cs
+│
+├── TriangleTypeIdentifier/
+│ └── Program.cs
+│
+└── README.md
 
 
 ## How to Run
