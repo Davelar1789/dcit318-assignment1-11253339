@@ -1,9 +1,9 @@
 # dcit318-assignment1-11253339
 
 ## Student Information
-- **Name:** [Your Full Name]
+- **Name:** Laryea David
 - **ID:** 11253339
-- **Email:** yourname@st.ug.edu.gh
+- **Email:** dnalaryea003@st.ug.edu.gh
 
 ## Description
 This repository contains three separate C# console applications created for **DCIT 318: Programming II Assignment 1**.
@@ -29,3 +29,12 @@ Takes three side lengths as input and determines the type of triangle:
 Also validates if the sides can form a valid triangle using the triangle inequality rule.
 
 ## Project Structure
+
+
+
+## How to Run
+1. Open a terminal in the folder of the project you want to run (e.g., `GradeCalculator`).
+2. Run:
+   ```bash
+   dotnet run
+3. Follow the prompts in the terminal.
